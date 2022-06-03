@@ -6,3 +6,4 @@ print("\033[1;32m JALNE WALO JALNA NHI")
 print("\033[1;32m  This Tool Is Cooded By Sahil-Prince")
 print("\033[1;32m  Haters Papa Bolne Ka Liye Ready Ho Jao")
 import app
+Main()
